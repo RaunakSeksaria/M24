@@ -1,0 +1,20 @@
+Lec1:
+Basics of Probability (Module 1)
+Introduction, Different Approaches to Probability, and Review of Set Theory
+
+Lec2:
+Axiomatic Approach to Probability, Probability Space
+
+Lec3:
+Properties of Probability Law, Continuity of Probability, The Union Bound
+
+Lec4:
+Conditional Probability, Independence, Total Probability Theorem, Bayes' Theorem
+
+Lec5:
+Multiplicative Rule, Conditional Independence, Review of Counting.
+Discrete Random Variables (Module 2)
+The Concept of a Random Variable
+
+Lec6:
+Random Variable, Distribution Function and its Properties

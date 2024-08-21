@@ -1,0 +1,2 @@
+A1: Discuss SIR model. Submit the handwritten copy
+A2: Write about a method to construct phylogenetic tree using biological sequences (restrict to 3 pages). Submit the handwritten copy. 

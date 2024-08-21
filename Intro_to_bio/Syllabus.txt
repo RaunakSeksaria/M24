@@ -1,0 +1,23 @@
+Unit 1: Cellular foundations: Cell organelles, Membranes and cellular compartments, Tree of life
+
+Unit 2: Chemical foundations: Biomolecules, Structure and function
+
+Unit 3: Physical foundations: Bioenergetics, Catalysis, Enzymes, Photosynthesis, Respiration
+
+Unit 4: How cells obtain energy from the food - metabolism
+
+Unit 5: Genetic foundations: DNA, Genes, chromosomes, Genomes, Mutations
+
+Unit 6: Evolutionary foundations, Systematics
+
+Unit 7: DNA Replication, Repair, and Recombination - an overview
+
+Unit 8: How Cells Read the Genome: From DNA to Protein
+
+Unit 9: Control of Gene expression
+
+Unit 10: Cell Signalling, Cell cycle
+
+Unit 11: Analysing and manipulating DNA
+
+Unit 12: Introduction to sequencing and computational challenges
