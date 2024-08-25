@@ -13,3 +13,5 @@ References: Section 4.4 of [KT]
 Lec5:
 References: Sections 4.5 and 4.6 of [KT], JeffE's notes. (Ignore the later part of JeffE's notes)
 
+Lec 6:
+References: Section 4.1 of [KT]
