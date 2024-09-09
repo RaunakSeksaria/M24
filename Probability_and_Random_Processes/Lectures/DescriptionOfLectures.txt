@@ -18,3 +18,15 @@ The Concept of a Random Variable
 
 Lec6:
 Random Variable, Distribution Function and its Properties
+
+Lec 7:
+Probability Mass Function, Functions of Random Variables, Expectation, Variance, and Examples of Discrete Random Variables (Bernoulli RV, Binomial RV, Geometric RV)
+
+Lec 8:
+Poisson Random Variable (RV), Approximation to Binomial, Jointly Discrete RVs, Functions of multiple RVs, Independence
+
+Lec 9:
+Linearity of Expectation, Sum of Random Variables, Properties of Mean and Variance, Conditioning
+
+Lec 10:
+Conditional Expectation, Total Expectation Theorem (Law of Iterated Expectations), Conditional Variance, and Some Review Problems 
