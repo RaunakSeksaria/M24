@@ -2,7 +2,9 @@
 <script src = "lindenmayer.browser.js"></script>
 
 <body>  
-	<canvas id="canvas" width="1000" height="1000"></canvas>
+	<canvas id="canvas" width="2000" height="2000"></canvas>
+    <button id="saveBtn">Save as PNG</button>
+    
 </body>
 
 <script>
@@ -21,8 +23,6 @@
     
     var syst = new LSystem({
     axiom: 'X',
-    //does not seem to work rn
-    productions: {'X' : Math.random()>0.5?'F-[[-X]+X]+F[+FX]-X':'F+[[+X]-X]-F[-FX]+X[X]','F':Math.random()>0.33?'F[F]F':(Math.random()>0.5?'F[+]F':'F[FF]F')},
     finals: {
         '+': () => { ctx.rotate((Math.PI/180) * 30)},
         '-': () => { ctx.rotate((Math.PI/180) * -30) },
@@ -42,8 +42,30 @@
         // 'Y' : () => {} 
         //these 2 are not terminals
         }
+        
     })
-
+    syst.setProduction('X', {
+            successors: [
+            {weight: 50, successor: 'F-[[-X]+X]+F[+FX]-X'},
+            {weight: 50, successor: 'F+[[+X]-X]-F[-FX]+X[X]'},
+            ]
+        }
+    )
+    syst.setProduction('F', {
+            successors: [
+            {weight: 33.33, successor: 'F[F]F'},
+            {weight: 33.33, successor: 'F[+]F'},
+            {weight: 33.33, successor: 'F[FF]F'},
+            ]
+        }
+    )
+    document.getElementById('saveBtn').addEventListener('click', function () {
+            const dataURL = canvas.toDataURL('image/png');
+            const link = document.createElement('a');
+            link.href = dataURL;
+            link.download = 'canvas-image.png';
+            link.click();
+        });
     syst.iterate(6)
     syst.final()
 </script>

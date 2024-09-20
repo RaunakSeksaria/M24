@@ -1,0 +1,11 @@
+"axiom":+F
+"productions":{F=F-F++F-F}
+"finals":{'+': () => { ctx.rotate((Math.PI/180) * 70)},
+'-': () => { ctx.rotate((Math.PI/180) * -70) },
+'F': () => {
+    ctx.beginPath()
+    ctx.moveTo(0,0)
+    ctx.lineTo(0, 5)
+    ctx.stroke()
+    ctx.translate(0, 5)},
+}   
