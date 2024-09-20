@@ -30,3 +30,15 @@ Linearity of Expectation, Sum of Random Variables, Properties of Mean and Varian
 
 Lec 10:
 Conditional Expectation, Total Expectation Theorem (Law of Iterated Expectations), Conditional Variance, and Some Review Problems 
+
+Lec 11:
+Some Applications in Graph Theory, and Estimation
+Continuous Random Variables (Module 3)
+Random Variables on Uncountable Sample Space
+
+Lec 12:
+Continuous Random Variables, Probability Density Function (PDF), Expectation, Variance, Uniform and Exponential Random Variables
+
+Lec 13:
+Some Problems and In-Class Queries; Recap of PDF, Expectation, Variance, and Uniform and Exponential RVs
+
