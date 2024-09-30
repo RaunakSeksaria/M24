@@ -1,0 +1,4 @@
+Lec 14: Relation between Geometric and Exponential Random Variables, Gaussian Random Variables
+
+Lec 15: Joint CDF, Jointly Continuous RVs (Joint PDF), Conditional CDF, A Version of Total Probability Theorem for PDF.
+
