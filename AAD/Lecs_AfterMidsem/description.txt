@@ -1,1 +1,4 @@
 Lec 12: Section 2.8 of Aho-Hopcraft-Ullman
+Lec 13: refer Reference PDF
+Lec 14: refer Reference PDF sections 3.2 3.6
+Lec 15: KT sec 6.1, 6.2

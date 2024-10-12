@@ -2,3 +2,8 @@ Lec 14: Relation between Geometric and Exponential Random Variables, Gaussian Ra
 
 Lec 15: Joint CDF, Jointly Continuous RVs (Joint PDF), Conditional CDF, A Version of Total Probability Theorem for PDF.
 
+Lec 16: Conditioning on another Random Variable, Conditional Expectation and Variance, Total Expectation Theorems, Independence
+
+Lec 17: Bayes' Rule and an Application to Digital Communication System via Maximum a Posteriori Probability Rule
+
+Lec 18: Functions of Random Variables, Functions of Two Random Variables - Sum of Two Independent RVs
