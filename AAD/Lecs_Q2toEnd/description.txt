@@ -1,0 +1,1 @@
+Lec 17: References: Sections 7.1 and 7.2 of [KT]
