@@ -1,1 +1,8 @@
 Lec 20: Moment Generating Function, Characteristic Function
+
+Lec 21: Tail Bounds and Limit Theorems (Module 4)
+
+Markov's inequality, Chebyshev's inequality, Chernoff Bound, Convergence in Probability, Weak Law of Large Numbers
+
+Lec 22:Convergence in Distribution, Central Limit Theorem (CLT), Normal Approximation, Convergence in Mean-Square Sense
+
