@@ -6,3 +6,9 @@ Markov's inequality, Chebyshev's inequality, Chernoff Bound, Convergence in Prob
 
 Lec 22:Convergence in Distribution, Central Limit Theorem (CLT), Normal Approximation, Convergence in Mean-Square Sense
 
+Lec 23:
+Almost Sure Convergence, SLLN, Hierarchy of Convergence
+
+Random Processes (Module 5)
+
+Concept of Random Processes, Mean, Correlation, and Covariance Functions
