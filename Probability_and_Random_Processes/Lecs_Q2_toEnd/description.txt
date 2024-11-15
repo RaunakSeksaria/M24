@@ -1,4 +1,4 @@
-Lec 20: Moment Generating Function, Characteristic Function
+﻿Lec 20: Moment Generating Function, Characteristic Function
 
 Lec 21: Tail Bounds and Limit Theorems (Module 4)
 
@@ -12,3 +12,9 @@ Almost Sure Convergence, SLLN, Hierarchy of Convergence
 Random Processes (Module 5)
 
 Concept of Random Processes, Mean, Correlation, and Covariance Functions
+
+Lec 24:
+Bernoulli Process and Poisson Process
+
+Lec 25:
+Strict-Sense Stationary Process, Wide-Sense Stationary Process, Power Spectral Density, Gaussian Random Vectors
