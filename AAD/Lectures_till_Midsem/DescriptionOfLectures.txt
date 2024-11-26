@@ -1,0 +1,17 @@
+Lec1:
+References: Chapter 2, and Section 3.2 of KT
+
+Lec2:
+References: Sections 3.3 and 3.4 of [KT]
+
+Lec3:
+References: Section 3.5 of [KT]
+
+Lec4:
+References: Section 4.4 of [KT]
+
+Lec5:
+References: Sections 4.5 and 4.6 of [KT], JeffE's notes. (Ignore the later part of JeffE's notes)
+
+Lec 6:
+References: Section 4.1 of [KT]
