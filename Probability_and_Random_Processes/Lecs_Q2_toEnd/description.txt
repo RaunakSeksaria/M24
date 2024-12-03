@@ -18,3 +18,6 @@ Bernoulli Process and Poisson Process
 
 Lec 25:
 Strict-Sense Stationary Process, Wide-Sense Stationary Process, Power Spectral Density, Gaussian Random Vectors
+
+Lec 26:
+Course Review
